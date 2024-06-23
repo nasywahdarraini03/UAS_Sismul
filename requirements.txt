@@ -3,4 +3,4 @@ streamlit
 pydub==0.25.1
 pillow==10.2.0
 scipy==1.13.1
-opencv-python==4.10.0.84
+opencv-python-headless==4.10.0.84
