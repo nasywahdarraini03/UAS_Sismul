@@ -1,5 +1,5 @@
 numpy==1.26.4
-streamlit==1.36.0
+streamlit
 pydub==0.25.1
 pillow==10.2.0
 scipy==1.13.1
